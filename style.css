@@ -1,0 +1,124 @@
+body{
+    background-image: url(fkf.jpeg);
+    
+}
+.themes{
+    color: #7fff00;
+}
+
+.login [name = "Search"] {
+    color: #7fff00;
+    background-color: #000000;
+
+}
+
+.login [name = "q"]{
+    color: #000000;
+    background-color: #000000;
+    border:2px solid #7fff00;
+    width: 220px;
+    border-radius: 22px;
+    color:#7fff00;
+}
+
+.datetime{
+    color: #7fff00;
+}
+
+
+.wishes [name = wishes]{
+    background-color: #000000;
+    color: #7fff00;
+    height: 100;
+    width: 200;
+    text-align: top;
+}
+
+.wishes input[type = submit]{
+    background-color: #000000;
+    color: #7fff00;
+}
+
+.yt button{
+    background-color: #000000;
+    color: #7fff00;
+    right: 50px;
+    float: right ;
+    margin-top: -250;
+    cursor: pointer;
+}
+
+.mp button{
+    background-color: #000000;
+    color: #7fff00;
+    right: 50px;
+    float: right ;
+    margin-top: -210;
+    cursor: pointer;
+}
+
+.ig button{
+    background-color: #000000;
+    color: #7fff00;
+    right: 50px;
+    float: right ;
+    margin-top: -170;
+    cursor: pointer;
+}
+
+.popcat button{
+    background-color: #000000;
+    color: #7fff00;
+    right: 50px;
+    float: right ;
+    margin-top: -130;
+    cursor: pointer;
+}
+
+.baidu button{
+    background-color: #000000;
+    color: #7fff00;
+    right: 50px;
+    float: right ;
+    margin-top: -90;
+    cursor: pointer;
+}
+
+.facebook button{
+    background-color: #000000;
+    color: #7fff00;
+    right: 50px;
+    float: right ;
+    margin-top: -50;
+    cursor: pointer;
+}
+
+.content {
+    background-color: #000000;
+    color: #7fff00;
+    width: 200px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.video {
+    margin-top: 250;
+}
+
+.wv{
+    color: #7fff00;
+    text-align: center;
+    margin-top: -400;
+}
+
+.khaby{
+    margin-top: 400;
+}
+
+.rgk{
+    margin-top: 40;
+}
+
